@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Прочитанное]]></title>
+  <link href="http://alpo.github.com/alporeadings/atom.xml" rel="self"/>
+  <link href="http://alpo.github.com/alporeadings/"/>
+  <updated>2013-03-19T17:22:11+06:00</updated>
+  <id>http://alpo.github.com/alporeadings/</id>
+  <author>
+    <name><![CDATA[Алексей Поротников]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://alpo.github.com/alporeadings/blog/2013/03/19/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2013-03-19T17:19:00+06:00</updated>
+    <id>http://alpo.github.com/alporeadings/blog/2013/03/19/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

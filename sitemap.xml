@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://alpo.github.com/alporeadings/blog/2013/03/19/zombie-ninjas-attack-a-survivors-retrospective/
+        </loc>
+        <lastmod>2013-03-19T17:19:46+06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpo.github.com/alporeadings/blog/archives/</loc>
+        <lastmod>2013-03-19T17:19:46+06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpo.github.com/alporeadings/</loc>
+        <lastmod>2013-03-19T17:19:46+06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://alpo.github.com/alporeadings/robots.txt</loc>
+        <lastmod>2013-03-19T17:15:53+06:00</lastmod>
+    </url>
+</urlset>
