@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lu et al. Acta Mater 2013"
+title: "Lu et al. Acta Materialia 2013"
 date: 2013-03-19 14:26
 comments: true
 categories: 
