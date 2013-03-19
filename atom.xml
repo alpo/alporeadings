@@ -4,7 +4,7 @@
   <title><![CDATA[Прочитанное]]></title>
   <link href="http://alpo.github.com/alporeadings/atom.xml" rel="self"/>
   <link href="http://alpo.github.com/alporeadings/"/>
-  <updated>2013-03-19T17:22:11+06:00</updated>
+  <updated>2013-03-19T17:37:40+06:00</updated>
   <id>http://alpo.github.com/alporeadings/</id>
   <author>
     <name><![CDATA[Алексей Поротников]]></name>
@@ -14,11 +14,27 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
-    <link href="http://alpo.github.com/alporeadings/blog/2013/03/19/zombie-ninjas-attack-a-survivors-retrospective/"/>
-    <updated>2013-03-19T17:19:00+06:00</updated>
-    <id>http://alpo.github.com/alporeadings/blog/2013/03/19/zombie-ninjas-attack-a-survivors-retrospective</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Lu et al. Acta Mater 2013]]></title>
+    <link href="http://alpo.github.com/alporeadings/blog/2013/03/19/title/"/>
+    <updated>2013-03-19T14:26:00+06:00</updated>
+    <id>http://alpo.github.com/alporeadings/blog/2013/03/19/title</id>
+    <content type="html"><![CDATA[<h2>Size dependence of radiation-induced amorphization and recrystallization of synthetic nanostructured CePO<sub>4</sub> monazite.</h2>
+
+<p>Fengyuan Lu, Yiqiang Shen, Xiang Sun, Zhili Dong, Rodney C. Ewing, Jie Lian</p>
+
+<p>Acta Materialia. 2013. С. 11–14, <a href="http://dx.doi.org/10.1016/j.actamat.2013.01.058">http://dx.doi.org/10.1016/j.actamat.2013.01.058</a></p>
+
+<h2>Зависимость радиационной аморфизации и рекристаллизации синтетического нанокристаллического монацита от размеров кристалла</h2>
+
+<p>Монацит рассматривается как форма захоронения актинидов. Выращены кристаллы с размерами 20-100 нм. Ударное и ионизирующее действие радиации изучалось по-отдельности, первое с помощью бомбардировки 1МэВ ионами Kr<sup>2+</sup>, второе 200кэВ электронами. Наночастицы наблюдались в ходе облучения с помощью СЭМ (TEM) с получением дифракционных картин в точке (SAED) и при облучении ионами заметно аморфизовались. Нанокристаллический монацит показывает большую критическую дозу аморфизации и меньшую критическую температуру аморфизации, чем массивный, намекая на большую устойчивость к аморфизации. Наблюдается сильная зависимость устойчивости от размеров частицы, частицы размером 20нм менее устойчивы, чем частицы размером 40нм. Увеличивающаяся с уменьшением размеров поверхностная энергия может уменьшать разницу между энергиями кристаллической и аморфной фаз, тем самым влияя на радиационную стабильность. При облучении электронным пучком 200кэВ монацит, ранее аморфизованный ионами Kr<sup>2+</sup> демонстрирует радиационно-индуцированную рекристаллизацию. Наибольшая скорость рекристаллизации наблюдается для маленьких частиц. При одновременном облучении электронами и ионами монацит демонстрирует гигантскую устойчивость к аморфизации, вероятно как результат радиационно-индуцированного восстановления радиационных повреждений. Сильная зависимость этих процессов от размера частиц подразумевает, что может существовать оптимальный размер с максимальной устойчивостью к радиационному повреждению.</p>
+
+<p><img class="center" src="http://alpo.github.com/alporeadings/images/lu/fig3.png"></p>
+
+<p><em>Fig. 3 Темнопольные СЭМ-изображения и дифрактограммы частицы CePO<sub>4</sub> до и после облучения Kr<sup>2+</sup></em></p>
+
+<p><img class="center" src="http://alpo.github.com/alporeadings/images/lu/fig4.png"></p>
+
+<p><em>Fig. 4 Светлопольные изображения и дифрактограммы частицы CePO<sub>4</sub> в ходе рекристаллизации под электронным пучком</em></p>
 ]]></content>
   </entry>
   
