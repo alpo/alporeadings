@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Прочитанное]]></title>
+  <title><![CDATA[Рефераты прочитанного]]></title>
   <link href="http://alpo.github.com/alporeadings/atom.xml" rel="self"/>
   <link href="http://alpo.github.com/alporeadings/"/>
-  <updated>2013-03-19T21:54:20+06:00</updated>
+  <updated>2013-03-20T13:52:57+06:00</updated>
   <id>http://alpo.github.com/alporeadings/</id>
   <author>
     <name><![CDATA[Алексей Поротников]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Lu et al. Acta Materialia 2013]]></title>
+    <title type="html"><![CDATA[Lu et al. Acta Mater 2013]]></title>
     <link href="http://alpo.github.com/alporeadings/blog/2013/03/19/title/"/>
     <updated>2013-03-19T14:26:00+06:00</updated>
     <id>http://alpo.github.com/alporeadings/blog/2013/03/19/title</id>
