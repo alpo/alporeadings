@@ -5,8 +5,14 @@
         <lastmod>2013-03-20T14:17:51+06:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://alpo.github.com/alporeadings/blog/2013/03/20/nasdala-et-al-miner-petrol-2013/
+        </loc>
+        <lastmod>2013-03-20T16:24:54+06:00</lastmod>
+    </url>
+    <url>
         <loc>http://alpo.github.com/alporeadings/blog/archives/</loc>
-        <lastmod>2013-03-20T14:17:51+06:00</lastmod>
+        <lastmod>2013-03-20T16:24:54+06:00</lastmod>
     </url>
     <url>
         <loc>http://alpo.github.com/alporeadings/robots.txt</loc>
@@ -14,6 +20,6 @@
     </url>
     <url>
         <loc>http://alpo.github.com/alporeadings/</loc>
-        <lastmod>2013-03-20T14:17:51+06:00</lastmod>
+        <lastmod>2013-03-20T16:24:54+06:00</lastmod>
     </url>
 </urlset>
