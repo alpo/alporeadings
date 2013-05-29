@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Schulz, Schüssler Lithos 2013"
+date: 2013-05-28 23:14
+comments: true
+categories: 
+published: false
+---
+## жжжжжжжжжж
+
+## Electron-microprobe Th-U-Pb monazite dating in Early-Paleozoic high-grade gneisses as a completion of U-Pb isotopic ages (Wilson Terrane, Antarctica)
+
+B. Schulz, U. Schüssler
+
+Lithos 2013 (accepted manuscript) <http://dx.doi.org/10.1016/j.lithos.2013.05.008>
+
+The electron microprobe (EMP) Th-U-Pb monazite bulk chemical dating method was applied to granulite-facies rocks of the Wilson Terrane in Antarctica.
+
+A combination of this method to isotopic U-Pb-SHRIMP ages for the evaluation of metamorphic processes required the analysis of reference monazites.
+
+These can be subdivided into three groups: a) Monazite with variable total Pb at constant Th, (e.g.VK-1), is unsuitable for EMP data evaluation.
+
+b) Monazite with highly variable total Pb and Th, but with at least some Th/Pb approximating an apparent isochrone, (e.g. MPN), is partly useful.
+
+c) Monazite with constant Th/Pb at high Th, (e.g. Madmon monazite) is best suitable for the combined approach and can be additionally used to improve the Th calibration for EMP.
+
+Study of monazite in grain mounts and in thin sections led to partly different but complementary results: Older monazites with EMP ages up to 680 Ma occur mainly in a grain mount from diatexite and metatexite and are interpreted as detrital relics.
+
+Some of these monazites show structures and mineral-chemical zonation trends resembling metasomatism by alkali-bearing fluids.
+
+A marked mobility of Th, P, Ce, Si and U is observed.
+
+The age of the metasomatic event can be bracketed between 510 and 450 Ma. 
+
+Furthermore, in the grain mount and in numerous petrographic thin sections of migmatites and gneisses, the EMP Th-U-Pb and SHRIMP U-Pb monazite data uniformly signal a major metamorphic event with a medium-pressure granulite facies peak between 512 and 496 Ma.
+
+Subsequent isothermal uplift and then amphibolite-facies conditions between 488 and 466 Ma led to crystallisation of pristine monazite.
+
+The high-grade metamorphic event, related to the Ross Orogeny, can be uniformly traced more than 600 km along strike in the Wilson Terrane.
+
