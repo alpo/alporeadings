@@ -4,7 +4,7 @@
   <title><![CDATA[Рефераты прочитанного]]></title>
   <link href="http://alpo.github.com/alporeadings/atom.xml" rel="self"/>
   <link href="http://alpo.github.com/alporeadings/"/>
-  <updated>2013-05-16T12:29:00+06:00</updated>
+  <updated>2013-06-14T12:05:11+06:00</updated>
   <id>http://alpo.github.com/alporeadings/</id>
   <author>
     <name><![CDATA[Алексей Поротников]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Montel Phys.Chem.Min. 2013]]></title>
+    <link href="http://alpo.github.com/alporeadings/blog/2013/05/28/montel-phys-dot-chem-dot-min-2013/"/>
+    <updated>2013-05-28T23:15:00+06:00</updated>
+    <id>http://alpo.github.com/alporeadings/blog/2013/05/28/montel-phys-dot-chem-dot-min-2013</id>
+    <content type="html"><![CDATA[<h2>Растрескивание в окрестностях радиоактивных минералов: упругая модель и ее приложения</h2>
+
+<h2>Fracturing around radioactive minerals: elastic model and applications</h2>
+
+<p>Jean-Marc Montel, Richard Giot</p>
+
+<p>Physics and Chemistry of Minerals 2013 (in press) <a href="http://dx.doi.org/10.1007/s00269-013-0599-z">http://dx.doi.org/10.1007/s00269-013-0599-z</a></p>
+
+<p>Простая механическая модель разбухания метамиктного кристалла показывает, что во вмещающем минерале создается давление, достаточное для его разрушения и возникновения радиальных трещин и находится в согласии с геологическими наблюдениями. Максимальное давление зависит главным образом от величины разбухания, жесткости включения и от сопротивления вмещающего минерала сдвигу. Внешнее давление, модуль Юнга вмещающего минерала и отношение его размера к размеру включения это параметры меньшей значимости. Воздействие включения не распространяется за пределы его 5-кратного радиуса. Опубликованные экспериментальные данные показывают, что разбухание метамиктного минерала может вызывать заметное растрескивание вмещающего. Однако, даже для использования столь простой модели не все необходимые параметры обоих минералов бывают известны. Мы полагаем, что в некоторых условиях разбухание метамиктного минерала и растрескивание вмещающего может влиять на физические свойства породы в макроскопическом масштабе за счет создания сети трещин, соединяющей метамиктные (т.е. содержащие U и Th) минералы с геологическим окружением.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Prabhakar  Chem. Geo. 2013]]></title>
